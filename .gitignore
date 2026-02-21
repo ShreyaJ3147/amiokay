@@ -1,3 +1,5 @@
+.env
+
 # AmIOkay specific
 data/amiokay.db
 data/raw/

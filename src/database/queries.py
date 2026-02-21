@@ -71,30 +71,12 @@ def get_symptom_prevalence(symptom_ids, life_stage_id=None):
             FROM symptoms s
             JOIN symptom_categories sc ON s.category_id = sc.category_id
             LEFT JOIN response_symptoms rs ON s.symptom_id = rs.symptom_id
-            LEFT JOIN responses r ON rs.response_id = r.response_id AND r.life_stage_id = ?
+            INNER JOIN responses r ON rs.response_id = r.response_id
             WHERE s.symptom_id IN ({placeholders})
+              AND r.life_stage_id = ?
             GROUP BY s.symptom_id
             ORDER BY percentage DESC
-        """, (life_stage_id, life_stage_id, *symptom_ids))
-    else:
-        return run_query(f"""
-            SELECT 
-                s.symptom_id,
-                s.symptom_name,
-                sc.icon as category_icon,
-                COUNT(DISTINCT rs.response_id) as report_count,
-                ROUND(
-                    COUNT(DISTINCT rs.response_id) * 100.0 / 
-                    (SELECT COUNT(*) FROM responses),
-                    1
-                ) as percentage
-            FROM symptoms s
-            JOIN symptom_categories sc ON s.category_id = sc.category_id
-            LEFT JOIN response_symptoms rs ON s.symptom_id = rs.symptom_id
-            WHERE s.symptom_id IN ({placeholders})
-            GROUP BY s.symptom_id
-            ORDER BY percentage DESC
-        """, symptom_ids)
+        """, (life_stage_id, *symptom_ids, life_stage_id))
 
 
 def get_cooccurring_symptoms(symptom_ids, limit=10):
