@@ -1,3 +1,10 @@
+# AmIOkay specific
+data/amiokay.db
+data/raw/
+
+# Virtual environment
+venv/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
