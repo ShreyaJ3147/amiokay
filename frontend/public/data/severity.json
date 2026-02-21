@@ -1,0 +1,261 @@
+{
+  "1": {
+    "symptom_id": 1,
+    "total": 142,
+    "pct_mild": 49.3,
+    "pct_moderate": 26.8,
+    "pct_severe": 23.9
+  },
+  "2": {
+    "symptom_id": 2,
+    "total": 147,
+    "pct_mild": 44.2,
+    "pct_moderate": 38.1,
+    "pct_severe": 17.7
+  },
+  "3": {
+    "symptom_id": 3,
+    "total": 389,
+    "pct_mild": 45.2,
+    "pct_moderate": 36.8,
+    "pct_severe": 18.0
+  },
+  "4": {
+    "symptom_id": 4,
+    "total": 37,
+    "pct_mild": 45.9,
+    "pct_moderate": 45.9,
+    "pct_severe": 8.1
+  },
+  "5": {
+    "symptom_id": 5,
+    "total": 48,
+    "pct_mild": 39.6,
+    "pct_moderate": 33.3,
+    "pct_severe": 27.1
+  },
+  "6": {
+    "symptom_id": 6,
+    "total": 294,
+    "pct_mild": 43.5,
+    "pct_moderate": 38.8,
+    "pct_severe": 17.7
+  },
+  "7": {
+    "symptom_id": 7,
+    "total": 317,
+    "pct_mild": 41.3,
+    "pct_moderate": 45.1,
+    "pct_severe": 13.6
+  },
+  "8": {
+    "symptom_id": 8,
+    "total": 307,
+    "pct_mild": 52.1,
+    "pct_moderate": 30.3,
+    "pct_severe": 17.6
+  },
+  "9": {
+    "symptom_id": 9,
+    "total": 364,
+    "pct_mild": 46.7,
+    "pct_moderate": 35.7,
+    "pct_severe": 17.6
+  },
+  "10": {
+    "symptom_id": 10,
+    "total": 249,
+    "pct_mild": 49.0,
+    "pct_moderate": 33.3,
+    "pct_severe": 17.7
+  },
+  "11": {
+    "symptom_id": 11,
+    "total": 487,
+    "pct_mild": 45.0,
+    "pct_moderate": 38.6,
+    "pct_severe": 16.4
+  },
+  "12": {
+    "symptom_id": 12,
+    "total": 244,
+    "pct_mild": 44.3,
+    "pct_moderate": 37.7,
+    "pct_severe": 18.0
+  },
+  "13": {
+    "symptom_id": 13,
+    "total": 134,
+    "pct_mild": 48.5,
+    "pct_moderate": 36.6,
+    "pct_severe": 14.9
+  },
+  "14": {
+    "symptom_id": 14,
+    "total": 154,
+    "pct_mild": 48.7,
+    "pct_moderate": 32.5,
+    "pct_severe": 18.8
+  },
+  "15": {
+    "symptom_id": 15,
+    "total": 195,
+    "pct_mild": 49.7,
+    "pct_moderate": 34.9,
+    "pct_severe": 15.4
+  },
+  "16": {
+    "symptom_id": 16,
+    "total": 33,
+    "pct_mild": 45.5,
+    "pct_moderate": 30.3,
+    "pct_severe": 24.2
+  },
+  "17": {
+    "symptom_id": 17,
+    "total": 45,
+    "pct_mild": 42.2,
+    "pct_moderate": 33.3,
+    "pct_severe": 24.4
+  },
+  "18": {
+    "symptom_id": 18,
+    "total": 303,
+    "pct_mild": 41.3,
+    "pct_moderate": 39.9,
+    "pct_severe": 18.8
+  },
+  "19": {
+    "symptom_id": 19,
+    "total": 159,
+    "pct_mild": 44.7,
+    "pct_moderate": 35.8,
+    "pct_severe": 19.5
+  },
+  "20": {
+    "symptom_id": 20,
+    "total": 153,
+    "pct_mild": 50.3,
+    "pct_moderate": 34.0,
+    "pct_severe": 15.7
+  },
+  "21": {
+    "symptom_id": 21,
+    "total": 166,
+    "pct_mild": 49.4,
+    "pct_moderate": 30.7,
+    "pct_severe": 19.9
+  },
+  "22": {
+    "symptom_id": 22,
+    "total": 238,
+    "pct_mild": 42.4,
+    "pct_moderate": 36.1,
+    "pct_severe": 21.4
+  },
+  "23": {
+    "symptom_id": 23,
+    "total": 148,
+    "pct_mild": 37.8,
+    "pct_moderate": 40.5,
+    "pct_severe": 21.6
+  },
+  "24": {
+    "symptom_id": 24,
+    "total": 232,
+    "pct_mild": 46.1,
+    "pct_moderate": 37.1,
+    "pct_severe": 16.8
+  },
+  "25": {
+    "symptom_id": 25,
+    "total": 454,
+    "pct_mild": 41.9,
+    "pct_moderate": 38.8,
+    "pct_severe": 19.4
+  },
+  "26": {
+    "symptom_id": 26,
+    "total": 367,
+    "pct_mild": 41.4,
+    "pct_moderate": 42.0,
+    "pct_severe": 16.6
+  },
+  "27": {
+    "symptom_id": 27,
+    "total": 328,
+    "pct_mild": 43.3,
+    "pct_moderate": 39.0,
+    "pct_severe": 17.7
+  },
+  "28": {
+    "symptom_id": 28,
+    "total": 552,
+    "pct_mild": 44.2,
+    "pct_moderate": 38.9,
+    "pct_severe": 16.8
+  },
+  "29": {
+    "symptom_id": 29,
+    "total": 37,
+    "pct_mild": 45.9,
+    "pct_moderate": 45.9,
+    "pct_severe": 8.1
+  },
+  "30": {
+    "symptom_id": 30,
+    "total": 369,
+    "pct_mild": 44.4,
+    "pct_moderate": 37.4,
+    "pct_severe": 18.2
+  },
+  "31": {
+    "symptom_id": 31,
+    "total": 312,
+    "pct_mild": 42.9,
+    "pct_moderate": 40.1,
+    "pct_severe": 17.0
+  },
+  "32": {
+    "symptom_id": 32,
+    "total": 265,
+    "pct_mild": 41.9,
+    "pct_moderate": 39.2,
+    "pct_severe": 18.9
+  },
+  "33": {
+    "symptom_id": 33,
+    "total": 260,
+    "pct_mild": 40.0,
+    "pct_moderate": 40.4,
+    "pct_severe": 19.6
+  },
+  "34": {
+    "symptom_id": 34,
+    "total": 262,
+    "pct_mild": 43.5,
+    "pct_moderate": 35.9,
+    "pct_severe": 20.6
+  },
+  "35": {
+    "symptom_id": 35,
+    "total": 189,
+    "pct_mild": 42.3,
+    "pct_moderate": 36.0,
+    "pct_severe": 21.7
+  },
+  "36": {
+    "symptom_id": 36,
+    "total": 163,
+    "pct_mild": 43.6,
+    "pct_moderate": 36.2,
+    "pct_severe": 20.2
+  },
+  "37": {
+    "symptom_id": 37,
+    "total": 181,
+    "pct_mild": 43.1,
+    "pct_moderate": 34.8,
+    "pct_severe": 22.1
+  }
+}
