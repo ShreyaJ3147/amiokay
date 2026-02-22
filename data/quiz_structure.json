@@ -1,0 +1,236 @@
+[
+  {
+    "category_id": 1,
+    "category_name": "Menstrual & Cycle",
+    "icon": "\ud83e\ude78",
+    "symptoms": [
+      {
+        "symptom_id": 1,
+        "symptom_name": "Heavy periods",
+        "description": "Soaking through a pad/tampon every 1-2 hours"
+      },
+      {
+        "symptom_id": 2,
+        "symptom_name": "Irregular cycles",
+        "description": "Cycles shorter than 21 or longer than 35 days"
+      },
+      {
+        "symptom_id": 3,
+        "symptom_name": "Painful cramps",
+        "description": "Pain that interferes with daily activities"
+      },
+      {
+        "symptom_id": 4,
+        "symptom_name": "Spotting between periods",
+        "description": "Light bleeding outside your period"
+      },
+      {
+        "symptom_id": 5,
+        "symptom_name": "Missed periods",
+        "description": "Skipping one or more cycles (not pregnant)"
+      },
+      {
+        "symptom_id": 6,
+        "symptom_name": "PMS mood changes",
+        "description": "Irritability, sadness, or anxiety before your period"
+      },
+      {
+        "symptom_id": 7,
+        "symptom_name": "Bloating around period",
+        "description": "Abdominal swelling or tightness near your cycle"
+      }
+    ]
+  },
+  {
+    "category_id": 2,
+    "category_name": "Energy & Sleep",
+    "icon": "\ud83d\ude34",
+    "symptoms": [
+      {
+        "symptom_id": 8,
+        "symptom_name": "Chronic fatigue",
+        "description": "Feeling tired even after a full night's sleep"
+      },
+      {
+        "symptom_id": 9,
+        "symptom_name": "Insomnia",
+        "description": "Difficulty falling or staying asleep"
+      },
+      {
+        "symptom_id": 10,
+        "symptom_name": "Afternoon energy crash",
+        "description": "Severe energy drop in the mid-afternoon"
+      },
+      {
+        "symptom_id": 11,
+        "symptom_name": "Brain fog",
+        "description": "Difficulty concentrating, forgetfulness"
+      },
+      {
+        "symptom_id": 12,
+        "symptom_name": "Waking up exhausted",
+        "description": "Not feeling rested despite sleeping 7+ hours"
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "category_name": "Pain & Physical",
+    "icon": "\ud83d\udcaa",
+    "symptoms": [
+      {
+        "symptom_id": 13,
+        "symptom_name": "Chronic pelvic pain",
+        "description": "Ongoing pain in the lower abdomen"
+      },
+      {
+        "symptom_id": 14,
+        "symptom_name": "Pain during intercourse",
+        "description": "Discomfort or pain during sex"
+      },
+      {
+        "symptom_id": 15,
+        "symptom_name": "Lower back pain",
+        "description": "Persistent ache in the lower back"
+      },
+      {
+        "symptom_id": 16,
+        "symptom_name": "Headaches or migraines",
+        "description": "Recurring headaches, especially around your cycle"
+      },
+      {
+        "symptom_id": 17,
+        "symptom_name": "Joint pain",
+        "description": "Aching or stiffness in joints"
+      },
+      {
+        "symptom_id": 18,
+        "symptom_name": "Breast tenderness",
+        "description": "Soreness or sensitivity in breasts"
+      }
+    ]
+  },
+  {
+    "category_id": 4,
+    "category_name": "Skin, Hair & Body",
+    "icon": "\u2728",
+    "symptoms": [
+      {
+        "symptom_id": 19,
+        "symptom_name": "Hormonal acne",
+        "description": "Breakouts along jawline, chin, or cheeks"
+      },
+      {
+        "symptom_id": 20,
+        "symptom_name": "Hair thinning",
+        "description": "Noticeable hair loss or thinning"
+      },
+      {
+        "symptom_id": 21,
+        "symptom_name": "Excess body hair",
+        "description": "Unwanted hair growth on face, chest, or back"
+      },
+      {
+        "symptom_id": 22,
+        "symptom_name": "Unexplained weight gain",
+        "description": "Gaining weight without diet/lifestyle changes"
+      },
+      {
+        "symptom_id": 23,
+        "symptom_name": "Difficulty losing weight",
+        "description": "Weight that won't budge despite effort"
+      },
+      {
+        "symptom_id": 24,
+        "symptom_name": "Dry skin",
+        "description": "Persistent skin dryness not helped by moisturizer"
+      }
+    ]
+  },
+  {
+    "category_id": 5,
+    "category_name": "Mental & Emotional",
+    "icon": "\ud83e\udde0",
+    "symptoms": [
+      {
+        "symptom_id": 25,
+        "symptom_name": "Anxiety",
+        "description": "Persistent worry, nervousness, or unease"
+      },
+      {
+        "symptom_id": 26,
+        "symptom_name": "Depression or low mood",
+        "description": "Ongoing sadness, loss of interest"
+      },
+      {
+        "symptom_id": 27,
+        "symptom_name": "Mood swings",
+        "description": "Rapid emotional shifts without clear cause"
+      },
+      {
+        "symptom_id": 28,
+        "symptom_name": "Irritability",
+        "description": "Getting frustrated or upset more easily than usual"
+      },
+      {
+        "symptom_id": 29,
+        "symptom_name": "Low self-esteem",
+        "description": "Negative self-perception tied to physical symptoms"
+      },
+      {
+        "symptom_id": 30,
+        "symptom_name": "Feeling overwhelmed",
+        "description": "Difficulty coping with normal daily demands"
+      }
+    ]
+  },
+  {
+    "category_id": 6,
+    "category_name": "Digestive",
+    "icon": "\ud83e\udec4",
+    "symptoms": [
+      {
+        "symptom_id": 31,
+        "symptom_name": "Bloating",
+        "description": "Frequent abdominal bloating unrelated to cycle"
+      },
+      {
+        "symptom_id": 32,
+        "symptom_name": "Nausea",
+        "description": "Feeling sick to your stomach regularly"
+      },
+      {
+        "symptom_id": 33,
+        "symptom_name": "Constipation",
+        "description": "Infrequent or difficult bowel movements"
+      },
+      {
+        "symptom_id": 34,
+        "symptom_name": "Food sensitivities",
+        "description": "Reactions to foods you used to tolerate"
+      }
+    ]
+  },
+  {
+    "category_id": 7,
+    "category_name": "Bladder & Pelvic Floor",
+    "icon": "\ud83d\udebf",
+    "symptoms": [
+      {
+        "symptom_id": 35,
+        "symptom_name": "Frequent urination",
+        "description": "Needing to pee more often than normal"
+      },
+      {
+        "symptom_id": 36,
+        "symptom_name": "Urinary leakage",
+        "description": "Leaking when coughing, sneezing, or exercising"
+      },
+      {
+        "symptom_id": 37,
+        "symptom_name": "Pelvic pressure",
+        "description": "Feeling of heaviness in the pelvic area"
+      }
+    ]
+  }
+]

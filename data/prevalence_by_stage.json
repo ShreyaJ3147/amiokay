@@ -1,0 +1,902 @@
+{
+  "3": {
+    "1": {
+      "report_count": 13,
+      "percentage": 8.1
+    },
+    "2": {
+      "report_count": 11,
+      "percentage": 6.8
+    },
+    "3": {
+      "report_count": 43,
+      "percentage": 26.7
+    },
+    "4": {
+      "report_count": 2,
+      "percentage": 1.2
+    },
+    "5": {
+      "report_count": 5,
+      "percentage": 3.1
+    },
+    "6": {
+      "report_count": 29,
+      "percentage": 18.0
+    },
+    "7": {
+      "report_count": 30,
+      "percentage": 18.6
+    },
+    "8": {
+      "report_count": 38,
+      "percentage": 23.6
+    },
+    "9": {
+      "report_count": 29,
+      "percentage": 18.0
+    },
+    "10": {
+      "report_count": 32,
+      "percentage": 19.9
+    },
+    "11": {
+      "report_count": 47,
+      "percentage": 29.2
+    },
+    "12": {
+      "report_count": 29,
+      "percentage": 18.0
+    },
+    "13": {
+      "report_count": 13,
+      "percentage": 8.1
+    },
+    "14": {
+      "report_count": 15,
+      "percentage": 9.3
+    },
+    "15": {
+      "report_count": 21,
+      "percentage": 13.0
+    },
+    "16": {
+      "report_count": 6,
+      "percentage": 3.7
+    },
+    "17": {
+      "report_count": 3,
+      "percentage": 1.9
+    },
+    "18": {
+      "report_count": 37,
+      "percentage": 23.0
+    },
+    "19": {
+      "report_count": 14,
+      "percentage": 8.7
+    },
+    "20": {
+      "report_count": 18,
+      "percentage": 11.2
+    },
+    "21": {
+      "report_count": 20,
+      "percentage": 12.4
+    },
+    "22": {
+      "report_count": 24,
+      "percentage": 14.9
+    },
+    "23": {
+      "report_count": 17,
+      "percentage": 10.6
+    },
+    "24": {
+      "report_count": 22,
+      "percentage": 13.7
+    },
+    "25": {
+      "report_count": 40,
+      "percentage": 24.8
+    },
+    "26": {
+      "report_count": 32,
+      "percentage": 19.9
+    },
+    "27": {
+      "report_count": 35,
+      "percentage": 21.7
+    },
+    "28": {
+      "report_count": 59,
+      "percentage": 36.6
+    },
+    "29": {
+      "report_count": 6,
+      "percentage": 3.7
+    },
+    "30": {
+      "report_count": 37,
+      "percentage": 23.0
+    },
+    "31": {
+      "report_count": 33,
+      "percentage": 20.5
+    },
+    "32": {
+      "report_count": 25,
+      "percentage": 15.5
+    },
+    "33": {
+      "report_count": 23,
+      "percentage": 14.3
+    },
+    "34": {
+      "report_count": 22,
+      "percentage": 13.7
+    },
+    "35": {
+      "report_count": 15,
+      "percentage": 9.3
+    },
+    "36": {
+      "report_count": 17,
+      "percentage": 10.6
+    },
+    "37": {
+      "report_count": 19,
+      "percentage": 11.8
+    }
+  },
+  "4": {
+    "1": {
+      "report_count": 41,
+      "percentage": 11.3
+    },
+    "2": {
+      "report_count": 31,
+      "percentage": 8.6
+    },
+    "3": {
+      "report_count": 82,
+      "percentage": 22.7
+    },
+    "4": {
+      "report_count": 7,
+      "percentage": 1.9
+    },
+    "5": {
+      "report_count": 8,
+      "percentage": 2.2
+    },
+    "6": {
+      "report_count": 61,
+      "percentage": 16.9
+    },
+    "7": {
+      "report_count": 69,
+      "percentage": 19.1
+    },
+    "8": {
+      "report_count": 71,
+      "percentage": 19.6
+    },
+    "9": {
+      "report_count": 76,
+      "percentage": 21.0
+    },
+    "10": {
+      "report_count": 51,
+      "percentage": 14.1
+    },
+    "11": {
+      "report_count": 107,
+      "percentage": 29.6
+    },
+    "12": {
+      "report_count": 48,
+      "percentage": 13.3
+    },
+    "13": {
+      "report_count": 27,
+      "percentage": 7.5
+    },
+    "14": {
+      "report_count": 36,
+      "percentage": 9.9
+    },
+    "15": {
+      "report_count": 46,
+      "percentage": 12.7
+    },
+    "16": {
+      "report_count": 9,
+      "percentage": 2.5
+    },
+    "17": {
+      "report_count": 8,
+      "percentage": 2.2
+    },
+    "18": {
+      "report_count": 69,
+      "percentage": 19.1
+    },
+    "19": {
+      "report_count": 28,
+      "percentage": 7.7
+    },
+    "20": {
+      "report_count": 31,
+      "percentage": 8.6
+    },
+    "21": {
+      "report_count": 42,
+      "percentage": 11.6
+    },
+    "22": {
+      "report_count": 43,
+      "percentage": 11.9
+    },
+    "23": {
+      "report_count": 27,
+      "percentage": 7.5
+    },
+    "24": {
+      "report_count": 52,
+      "percentage": 14.4
+    },
+    "25": {
+      "report_count": 103,
+      "percentage": 28.5
+    },
+    "26": {
+      "report_count": 83,
+      "percentage": 22.9
+    },
+    "27": {
+      "report_count": 73,
+      "percentage": 20.2
+    },
+    "28": {
+      "report_count": 115,
+      "percentage": 31.8
+    },
+    "29": {
+      "report_count": 10,
+      "percentage": 2.8
+    },
+    "30": {
+      "report_count": 71,
+      "percentage": 19.6
+    },
+    "31": {
+      "report_count": 77,
+      "percentage": 21.3
+    },
+    "32": {
+      "report_count": 52,
+      "percentage": 14.4
+    },
+    "33": {
+      "report_count": 58,
+      "percentage": 16.0
+    },
+    "34": {
+      "report_count": 57,
+      "percentage": 15.7
+    },
+    "35": {
+      "report_count": 36,
+      "percentage": 9.9
+    },
+    "36": {
+      "report_count": 39,
+      "percentage": 10.8
+    },
+    "37": {
+      "report_count": 44,
+      "percentage": 12.2
+    }
+  },
+  "6": {
+    "1": {
+      "report_count": 45,
+      "percentage": 8.2
+    },
+    "2": {
+      "report_count": 51,
+      "percentage": 9.3
+    },
+    "3": {
+      "report_count": 127,
+      "percentage": 23.0
+    },
+    "4": {
+      "report_count": 11,
+      "percentage": 2.0
+    },
+    "5": {
+      "report_count": 21,
+      "percentage": 3.8
+    },
+    "6": {
+      "report_count": 92,
+      "percentage": 16.7
+    },
+    "7": {
+      "report_count": 111,
+      "percentage": 20.1
+    },
+    "8": {
+      "report_count": 100,
+      "percentage": 18.1
+    },
+    "9": {
+      "report_count": 135,
+      "percentage": 24.5
+    },
+    "10": {
+      "report_count": 82,
+      "percentage": 14.9
+    },
+    "11": {
+      "report_count": 181,
+      "percentage": 32.8
+    },
+    "12": {
+      "report_count": 79,
+      "percentage": 14.3
+    },
+    "13": {
+      "report_count": 47,
+      "percentage": 8.5
+    },
+    "14": {
+      "report_count": 54,
+      "percentage": 9.8
+    },
+    "15": {
+      "report_count": 59,
+      "percentage": 10.7
+    },
+    "16": {
+      "report_count": 17,
+      "percentage": 3.1
+    },
+    "17": {
+      "report_count": 19,
+      "percentage": 3.4
+    },
+    "18": {
+      "report_count": 101,
+      "percentage": 18.3
+    },
+    "19": {
+      "report_count": 54,
+      "percentage": 9.8
+    },
+    "20": {
+      "report_count": 50,
+      "percentage": 9.1
+    },
+    "21": {
+      "report_count": 58,
+      "percentage": 10.5
+    },
+    "22": {
+      "report_count": 90,
+      "percentage": 16.3
+    },
+    "23": {
+      "report_count": 49,
+      "percentage": 8.9
+    },
+    "24": {
+      "report_count": 77,
+      "percentage": 14.0
+    },
+    "25": {
+      "report_count": 164,
+      "percentage": 29.8
+    },
+    "26": {
+      "report_count": 128,
+      "percentage": 23.2
+    },
+    "27": {
+      "report_count": 107,
+      "percentage": 19.4
+    },
+    "28": {
+      "report_count": 199,
+      "percentage": 36.1
+    },
+    "29": {
+      "report_count": 12,
+      "percentage": 2.2
+    },
+    "30": {
+      "report_count": 145,
+      "percentage": 26.3
+    },
+    "31": {
+      "report_count": 116,
+      "percentage": 21.1
+    },
+    "32": {
+      "report_count": 85,
+      "percentage": 15.4
+    },
+    "33": {
+      "report_count": 85,
+      "percentage": 15.4
+    },
+    "34": {
+      "report_count": 83,
+      "percentage": 15.1
+    },
+    "35": {
+      "report_count": 61,
+      "percentage": 11.1
+    },
+    "36": {
+      "report_count": 63,
+      "percentage": 11.4
+    },
+    "37": {
+      "report_count": 54,
+      "percentage": 9.8
+    }
+  },
+  "5": {
+    "1": {
+      "report_count": 48,
+      "percentage": 9.4
+    },
+    "2": {
+      "report_count": 51,
+      "percentage": 9.9
+    },
+    "3": {
+      "report_count": 130,
+      "percentage": 25.3
+    },
+    "4": {
+      "report_count": 11,
+      "percentage": 2.1
+    },
+    "5": {
+      "report_count": 13,
+      "percentage": 2.5
+    },
+    "6": {
+      "report_count": 114,
+      "percentage": 22.2
+    },
+    "7": {
+      "report_count": 102,
+      "percentage": 19.9
+    },
+    "8": {
+      "report_count": 95,
+      "percentage": 18.5
+    },
+    "9": {
+      "report_count": 115,
+      "percentage": 22.4
+    },
+    "10": {
+      "report_count": 80,
+      "percentage": 15.6
+    },
+    "11": {
+      "report_count": 164,
+      "percentage": 32.0
+    },
+    "12": {
+      "report_count": 83,
+      "percentage": 16.2
+    },
+    "13": {
+      "report_count": 50,
+      "percentage": 9.7
+    },
+    "14": {
+      "report_count": 46,
+      "percentage": 9.0
+    },
+    "15": {
+      "report_count": 65,
+      "percentage": 12.7
+    },
+    "16": {
+      "report_count": 8,
+      "percentage": 1.6
+    },
+    "17": {
+      "report_count": 12,
+      "percentage": 2.3
+    },
+    "18": {
+      "report_count": 100,
+      "percentage": 19.5
+    },
+    "19": {
+      "report_count": 52,
+      "percentage": 10.1
+    },
+    "20": {
+      "report_count": 44,
+      "percentage": 8.6
+    },
+    "21": {
+      "report_count": 60,
+      "percentage": 11.7
+    },
+    "22": {
+      "report_count": 73,
+      "percentage": 14.2
+    },
+    "23": {
+      "report_count": 48,
+      "percentage": 9.4
+    },
+    "24": {
+      "report_count": 77,
+      "percentage": 15.0
+    },
+    "25": {
+      "report_count": 139,
+      "percentage": 27.1
+    },
+    "26": {
+      "report_count": 103,
+      "percentage": 20.1
+    },
+    "27": {
+      "report_count": 105,
+      "percentage": 20.5
+    },
+    "28": {
+      "report_count": 171,
+      "percentage": 33.3
+    },
+    "29": {
+      "report_count": 14,
+      "percentage": 2.7
+    },
+    "30": {
+      "report_count": 112,
+      "percentage": 21.8
+    },
+    "31": {
+      "report_count": 97,
+      "percentage": 18.9
+    },
+    "32": {
+      "report_count": 87,
+      "percentage": 17.0
+    },
+    "33": {
+      "report_count": 82,
+      "percentage": 16.0
+    },
+    "34": {
+      "report_count": 89,
+      "percentage": 17.3
+    },
+    "35": {
+      "report_count": 65,
+      "percentage": 12.7
+    },
+    "36": {
+      "report_count": 46,
+      "percentage": 9.0
+    },
+    "37": {
+      "report_count": 48,
+      "percentage": 9.4
+    }
+  },
+  "1": {
+    "1": {
+      "report_count": 22,
+      "percentage": 7.2
+    },
+    "2": {
+      "report_count": 34,
+      "percentage": 11.2
+    },
+    "3": {
+      "report_count": 79,
+      "percentage": 26.0
+    },
+    "4": {
+      "report_count": 11,
+      "percentage": 3.6
+    },
+    "5": {
+      "report_count": 10,
+      "percentage": 3.3
+    },
+    "6": {
+      "report_count": 58,
+      "percentage": 19.1
+    },
+    "7": {
+      "report_count": 62,
+      "percentage": 20.4
+    },
+    "8": {
+      "report_count": 57,
+      "percentage": 18.8
+    },
+    "9": {
+      "report_count": 64,
+      "percentage": 21.1
+    },
+    "10": {
+      "report_count": 40,
+      "percentage": 13.2
+    },
+    "11": {
+      "report_count": 101,
+      "percentage": 33.2
+    },
+    "12": {
+      "report_count": 43,
+      "percentage": 14.1
+    },
+    "13": {
+      "report_count": 20,
+      "percentage": 6.6
+    },
+    "14": {
+      "report_count": 20,
+      "percentage": 6.6
+    },
+    "15": {
+      "report_count": 44,
+      "percentage": 14.5
+    },
+    "16": {
+      "report_count": 3,
+      "percentage": 1.0
+    },
+    "17": {
+      "report_count": 10,
+      "percentage": 3.3
+    },
+    "18": {
+      "report_count": 56,
+      "percentage": 18.4
+    },
+    "19": {
+      "report_count": 34,
+      "percentage": 11.2
+    },
+    "20": {
+      "report_count": 43,
+      "percentage": 14.1
+    },
+    "21": {
+      "report_count": 26,
+      "percentage": 8.6
+    },
+    "22": {
+      "report_count": 45,
+      "percentage": 14.8
+    },
+    "23": {
+      "report_count": 26,
+      "percentage": 8.6
+    },
+    "24": {
+      "report_count": 38,
+      "percentage": 12.5
+    },
+    "25": {
+      "report_count": 93,
+      "percentage": 30.6
+    },
+    "26": {
+      "report_count": 72,
+      "percentage": 23.7
+    },
+    "27": {
+      "report_count": 61,
+      "percentage": 20.1
+    },
+    "28": {
+      "report_count": 95,
+      "percentage": 31.2
+    },
+    "29": {
+      "report_count": 5,
+      "percentage": 1.6
+    },
+    "30": {
+      "report_count": 62,
+      "percentage": 20.4
+    },
+    "31": {
+      "report_count": 52,
+      "percentage": 17.1
+    },
+    "32": {
+      "report_count": 53,
+      "percentage": 17.4
+    },
+    "33": {
+      "report_count": 45,
+      "percentage": 14.8
+    },
+    "34": {
+      "report_count": 46,
+      "percentage": 15.1
+    },
+    "35": {
+      "report_count": 43,
+      "percentage": 14.1
+    },
+    "36": {
+      "report_count": 43,
+      "percentage": 14.1
+    },
+    "37": {
+      "report_count": 41,
+      "percentage": 13.5
+    }
+  },
+  "2": {
+    "1": {
+      "report_count": 12,
+      "percentage": 11.0
+    },
+    "2": {
+      "report_count": 6,
+      "percentage": 5.5
+    },
+    "3": {
+      "report_count": 20,
+      "percentage": 18.3
+    },
+    "4": {
+      "report_count": 3,
+      "percentage": 2.8
+    },
+    "5": {
+      "report_count": 6,
+      "percentage": 5.5
+    },
+    "6": {
+      "report_count": 20,
+      "percentage": 18.3
+    },
+    "7": {
+      "report_count": 20,
+      "percentage": 18.3
+    },
+    "8": {
+      "report_count": 27,
+      "percentage": 24.8
+    },
+    "9": {
+      "report_count": 27,
+      "percentage": 24.8
+    },
+    "10": {
+      "report_count": 14,
+      "percentage": 12.8
+    },
+    "11": {
+      "report_count": 36,
+      "percentage": 33.0
+    },
+    "12": {
+      "report_count": 14,
+      "percentage": 12.8
+    },
+    "13": {
+      "report_count": 12,
+      "percentage": 11.0
+    },
+    "14": {
+      "report_count": 13,
+      "percentage": 11.9
+    },
+    "15": {
+      "report_count": 8,
+      "percentage": 7.3
+    },
+    "16": {
+      "report_count": 1,
+      "percentage": 0.9
+    },
+    "17": {
+      "report_count": 2,
+      "percentage": 1.8
+    },
+    "18": {
+      "report_count": 17,
+      "percentage": 15.6
+    },
+    "19": {
+      "report_count": 16,
+      "percentage": 14.7
+    },
+    "20": {
+      "report_count": 10,
+      "percentage": 9.2
+    },
+    "21": {
+      "report_count": 13,
+      "percentage": 11.9
+    },
+    "22": {
+      "report_count": 14,
+      "percentage": 12.8
+    },
+    "23": {
+      "report_count": 11,
+      "percentage": 10.1
+    },
+    "24": {
+      "report_count": 13,
+      "percentage": 11.9
+    },
+    "25": {
+      "report_count": 30,
+      "percentage": 27.5
+    },
+    "26": {
+      "report_count": 28,
+      "percentage": 25.7
+    },
+    "27": {
+      "report_count": 19,
+      "percentage": 17.4
+    },
+    "28": {
+      "report_count": 35,
+      "percentage": 32.1
+    },
+    "29": {
+      "report_count": 1,
+      "percentage": 0.9
+    },
+    "30": {
+      "report_count": 21,
+      "percentage": 19.3
+    },
+    "31": {
+      "report_count": 35,
+      "percentage": 32.1
+    },
+    "32": {
+      "report_count": 22,
+      "percentage": 20.2
+    },
+    "33": {
+      "report_count": 19,
+      "percentage": 17.4
+    },
+    "34": {
+      "report_count": 20,
+      "percentage": 18.3
+    },
+    "35": {
+      "report_count": 12,
+      "percentage": 11.0
+    },
+    "36": {
+      "report_count": 11,
+      "percentage": 10.1
+    },
+    "37": {
+      "report_count": 9,
+      "percentage": 8.3
+    }
+  }
+}

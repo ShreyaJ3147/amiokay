@@ -1,0 +1,109 @@
+[
+  {
+    "specialist_id": 1,
+    "specialist_type": "OB-GYN (Gynecologist)",
+    "description": "Specializes in the female reproductive system \u2014 periods, hormones, fertility, and pelvic health.",
+    "what_to_expect": "They'll ask about your cycle history, symptoms, and may recommend blood tests or an ultrasound. It's a conversation first \u2014 exams only if needed.",
+    "icon": "\ud83d\udc69\u200d\u2695\ufe0f",
+    "symptom_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      14,
+      13
+    ]
+  },
+  {
+    "specialist_id": 2,
+    "specialist_type": "Endocrinologist",
+    "description": "Hormone specialist \u2014 they diagnose and treat conditions where your hormones are out of balance.",
+    "what_to_expect": "Expect blood work to check hormone levels (thyroid, insulin, testosterone, etc.). They'll look at the full picture \u2014 symptoms, labs, and history.",
+    "icon": "\ud83d\udd2c",
+    "symptom_ids": [
+      2,
+      21,
+      19,
+      20,
+      22,
+      23,
+      8,
+      5
+    ]
+  },
+  {
+    "specialist_id": 3,
+    "specialist_type": "Therapist / Psychologist",
+    "description": "Mental health professional who helps with emotional and psychological well-being through talk therapy.",
+    "what_to_expect": "First session is usually getting to know you \u2014 your background, what you're dealing with, and your goals. No pressure, no judgment.",
+    "icon": "\ud83e\udde0",
+    "symptom_ids": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      6,
+      9
+    ]
+  },
+  {
+    "specialist_id": 4,
+    "specialist_type": "Pelvic Floor Physical Therapist",
+    "description": "Specializes in the muscles that support your bladder, uterus, and bowel. More common than you think!",
+    "what_to_expect": "They'll assess your pelvic floor strength and coordination. Treatment often includes exercises, stretches, and lifestyle tips. It's not scary \u2014 think of it like PT for your core.",
+    "icon": "\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f",
+    "symptom_ids": [
+      36,
+      35,
+      37,
+      14,
+      13
+    ]
+  },
+  {
+    "specialist_id": 5,
+    "specialist_type": "Dermatologist",
+    "description": "Skin and hair specialist who can identify whether skin/hair issues have a hormonal root cause.",
+    "what_to_expect": "Visual examination of your skin/hair, questions about your cycle and medications. May recommend topical treatments or refer to an endocrinologist if hormonal.",
+    "icon": "\ud83e\ude9e",
+    "symptom_ids": [
+      19,
+      20,
+      21,
+      24
+    ]
+  },
+  {
+    "specialist_id": 6,
+    "specialist_type": "Gastroenterologist",
+    "description": "Digestive system specialist \u2014 helps with gut issues that may be connected to hormonal changes.",
+    "what_to_expect": "They'll ask about your diet, bowel habits, and symptom patterns. May recommend dietary changes, tests, or further investigation.",
+    "icon": "\ud83e\udec4",
+    "symptom_ids": [
+      31,
+      32,
+      33,
+      34
+    ]
+  },
+  {
+    "specialist_id": 7,
+    "specialist_type": "Primary Care Doctor",
+    "description": "Your general doctor \u2014 a great starting point if you're unsure where to begin. They can run initial tests and refer you to specialists.",
+    "what_to_expect": "A general check-up, blood work, and a conversation about all your symptoms. They're your quarterback \u2014 they coordinate your care.",
+    "icon": "\ud83e\ude7a",
+    "symptom_ids": [
+      8,
+      11,
+      10,
+      12,
+      16,
+      17,
+      15,
+      18
+    ]
+  }
+]

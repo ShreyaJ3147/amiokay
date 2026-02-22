@@ -1,0 +1,261 @@
+{
+  "1": {
+    "symptom_id": 1,
+    "symptom_name": "Heavy periods",
+    "category_icon": "\ud83e\ude78",
+    "report_count": 181,
+    "percentage": 9.1
+  },
+  "2": {
+    "symptom_id": 2,
+    "symptom_name": "Irregular cycles",
+    "category_icon": "\ud83e\ude78",
+    "report_count": 184,
+    "percentage": 9.2
+  },
+  "3": {
+    "symptom_id": 3,
+    "symptom_name": "Painful cramps",
+    "category_icon": "\ud83e\ude78",
+    "report_count": 481,
+    "percentage": 24.1
+  },
+  "4": {
+    "symptom_id": 4,
+    "symptom_name": "Spotting between periods",
+    "category_icon": "\ud83e\ude78",
+    "report_count": 45,
+    "percentage": 2.2
+  },
+  "5": {
+    "symptom_id": 5,
+    "symptom_name": "Missed periods",
+    "category_icon": "\ud83e\ude78",
+    "report_count": 63,
+    "percentage": 3.1
+  },
+  "6": {
+    "symptom_id": 6,
+    "symptom_name": "PMS mood changes",
+    "category_icon": "\ud83e\ude78",
+    "report_count": 374,
+    "percentage": 18.7
+  },
+  "7": {
+    "symptom_id": 7,
+    "symptom_name": "Bloating around period",
+    "category_icon": "\ud83e\ude78",
+    "report_count": 394,
+    "percentage": 19.7
+  },
+  "8": {
+    "symptom_id": 8,
+    "symptom_name": "Chronic fatigue",
+    "category_icon": "\ud83d\ude34",
+    "report_count": 388,
+    "percentage": 19.4
+  },
+  "9": {
+    "symptom_id": 9,
+    "symptom_name": "Insomnia",
+    "category_icon": "\ud83d\ude34",
+    "report_count": 446,
+    "percentage": 22.3
+  },
+  "10": {
+    "symptom_id": 10,
+    "symptom_name": "Afternoon energy crash",
+    "category_icon": "\ud83d\ude34",
+    "report_count": 299,
+    "percentage": 14.9
+  },
+  "11": {
+    "symptom_id": 11,
+    "symptom_name": "Brain fog",
+    "category_icon": "\ud83d\ude34",
+    "report_count": 636,
+    "percentage": 31.8
+  },
+  "12": {
+    "symptom_id": 12,
+    "symptom_name": "Waking up exhausted",
+    "category_icon": "\ud83d\ude34",
+    "report_count": 296,
+    "percentage": 14.8
+  },
+  "13": {
+    "symptom_id": 13,
+    "symptom_name": "Chronic pelvic pain",
+    "category_icon": "\ud83d\udcaa",
+    "report_count": 169,
+    "percentage": 8.4
+  },
+  "14": {
+    "symptom_id": 14,
+    "symptom_name": "Pain during intercourse",
+    "category_icon": "\ud83d\udcaa",
+    "report_count": 184,
+    "percentage": 9.2
+  },
+  "15": {
+    "symptom_id": 15,
+    "symptom_name": "Lower back pain",
+    "category_icon": "\ud83d\udcaa",
+    "report_count": 243,
+    "percentage": 12.2
+  },
+  "16": {
+    "symptom_id": 16,
+    "symptom_name": "Headaches or migraines",
+    "category_icon": "\ud83d\udcaa",
+    "report_count": 44,
+    "percentage": 2.2
+  },
+  "17": {
+    "symptom_id": 17,
+    "symptom_name": "Joint pain",
+    "category_icon": "\ud83d\udcaa",
+    "report_count": 54,
+    "percentage": 2.7
+  },
+  "18": {
+    "symptom_id": 18,
+    "symptom_name": "Breast tenderness",
+    "category_icon": "\ud83d\udcaa",
+    "report_count": 380,
+    "percentage": 19.0
+  },
+  "19": {
+    "symptom_id": 19,
+    "symptom_name": "Hormonal acne",
+    "category_icon": "\u2728",
+    "report_count": 198,
+    "percentage": 9.9
+  },
+  "20": {
+    "symptom_id": 20,
+    "symptom_name": "Hair thinning",
+    "category_icon": "\u2728",
+    "report_count": 196,
+    "percentage": 9.8
+  },
+  "21": {
+    "symptom_id": 21,
+    "symptom_name": "Excess body hair",
+    "category_icon": "\u2728",
+    "report_count": 219,
+    "percentage": 10.9
+  },
+  "22": {
+    "symptom_id": 22,
+    "symptom_name": "Unexplained weight gain",
+    "category_icon": "\u2728",
+    "report_count": 289,
+    "percentage": 14.4
+  },
+  "23": {
+    "symptom_id": 23,
+    "symptom_name": "Difficulty losing weight",
+    "category_icon": "\u2728",
+    "report_count": 178,
+    "percentage": 8.9
+  },
+  "24": {
+    "symptom_id": 24,
+    "symptom_name": "Dry skin",
+    "category_icon": "\u2728",
+    "report_count": 279,
+    "percentage": 13.9
+  },
+  "25": {
+    "symptom_id": 25,
+    "symptom_name": "Anxiety",
+    "category_icon": "\ud83e\udde0",
+    "report_count": 569,
+    "percentage": 28.4
+  },
+  "26": {
+    "symptom_id": 26,
+    "symptom_name": "Depression or low mood",
+    "category_icon": "\ud83e\udde0",
+    "report_count": 446,
+    "percentage": 22.3
+  },
+  "27": {
+    "symptom_id": 27,
+    "symptom_name": "Mood swings",
+    "category_icon": "\ud83e\udde0",
+    "report_count": 400,
+    "percentage": 20.0
+  },
+  "28": {
+    "symptom_id": 28,
+    "symptom_name": "Irritability",
+    "category_icon": "\ud83e\udde0",
+    "report_count": 674,
+    "percentage": 33.7
+  },
+  "29": {
+    "symptom_id": 29,
+    "symptom_name": "Low self-esteem",
+    "category_icon": "\ud83e\udde0",
+    "report_count": 48,
+    "percentage": 2.4
+  },
+  "30": {
+    "symptom_id": 30,
+    "symptom_name": "Feeling overwhelmed",
+    "category_icon": "\ud83e\udde0",
+    "report_count": 448,
+    "percentage": 22.4
+  },
+  "31": {
+    "symptom_id": 31,
+    "symptom_name": "Bloating",
+    "category_icon": "\ud83e\udec4",
+    "report_count": 410,
+    "percentage": 20.5
+  },
+  "32": {
+    "symptom_id": 32,
+    "symptom_name": "Nausea",
+    "category_icon": "\ud83e\udec4",
+    "report_count": 324,
+    "percentage": 16.2
+  },
+  "33": {
+    "symptom_id": 33,
+    "symptom_name": "Constipation",
+    "category_icon": "\ud83e\udec4",
+    "report_count": 312,
+    "percentage": 15.6
+  },
+  "34": {
+    "symptom_id": 34,
+    "symptom_name": "Food sensitivities",
+    "category_icon": "\ud83e\udec4",
+    "report_count": 317,
+    "percentage": 15.8
+  },
+  "35": {
+    "symptom_id": 35,
+    "symptom_name": "Frequent urination",
+    "category_icon": "\ud83d\udebf",
+    "report_count": 232,
+    "percentage": 11.6
+  },
+  "36": {
+    "symptom_id": 36,
+    "symptom_name": "Urinary leakage",
+    "category_icon": "\ud83d\udebf",
+    "report_count": 219,
+    "percentage": 10.9
+  },
+  "37": {
+    "symptom_id": 37,
+    "symptom_name": "Pelvic pressure",
+    "category_icon": "\ud83d\udebf",
+    "report_count": 215,
+    "percentage": 10.8
+  }
+}

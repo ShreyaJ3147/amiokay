@@ -1,0 +1,1898 @@
+[
+  {
+    "symptom_id_a": 10,
+    "symptom_id_b": 11,
+    "co_occurrence_count": 202,
+    "co_occurrence_pct": 67.6
+  },
+  {
+    "symptom_id_a": 6,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 250,
+    "co_occurrence_pct": 66.8
+  },
+  {
+    "symptom_id_a": 2,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 122,
+    "co_occurrence_pct": 66.3
+  },
+  {
+    "symptom_id_a": 6,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 248,
+    "co_occurrence_pct": 66.3
+  },
+  {
+    "symptom_id_a": 27,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 258,
+    "co_occurrence_pct": 64.5
+  },
+  {
+    "symptom_id_a": 7,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 252,
+    "co_occurrence_pct": 64.0
+  },
+  {
+    "symptom_id_a": 18,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 242,
+    "co_occurrence_pct": 63.7
+  },
+  {
+    "symptom_id_a": 9,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 282,
+    "co_occurrence_pct": 63.2
+  },
+  {
+    "symptom_id_a": 26,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 282,
+    "co_occurrence_pct": 63.2
+  },
+  {
+    "symptom_id_a": 1,
+    "symptom_id_b": 3,
+    "co_occurrence_count": 114,
+    "co_occurrence_pct": 63.0
+  },
+  {
+    "symptom_id_a": 6,
+    "symptom_id_b": 7,
+    "co_occurrence_count": 235,
+    "co_occurrence_pct": 62.8
+  },
+  {
+    "symptom_id_a": 9,
+    "symptom_id_b": 11,
+    "co_occurrence_count": 279,
+    "co_occurrence_pct": 62.6
+  },
+  {
+    "symptom_id_a": 9,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 278,
+    "co_occurrence_pct": 62.3
+  },
+  {
+    "symptom_id_a": 18,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 236,
+    "co_occurrence_pct": 62.1
+  },
+  {
+    "symptom_id_a": 6,
+    "symptom_id_b": 18,
+    "co_occurrence_count": 231,
+    "co_occurrence_pct": 61.8
+  },
+  {
+    "symptom_id_a": 7,
+    "symptom_id_b": 18,
+    "co_occurrence_count": 237,
+    "co_occurrence_pct": 60.2
+  },
+  {
+    "symptom_id_a": 20,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 117,
+    "co_occurrence_pct": 59.7
+  },
+  {
+    "symptom_id_a": 26,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 266,
+    "co_occurrence_pct": 59.6
+  },
+  {
+    "symptom_id_a": 9,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 264,
+    "co_occurrence_pct": 59.2
+  },
+  {
+    "symptom_id_a": 7,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 233,
+    "co_occurrence_pct": 59.1
+  },
+  {
+    "symptom_id_a": 23,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 105,
+    "co_occurrence_pct": 59.0
+  },
+  {
+    "symptom_id_a": 33,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 184,
+    "co_occurrence_pct": 59.0
+  },
+  {
+    "symptom_id_a": 9,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 262,
+    "co_occurrence_pct": 58.7
+  },
+  {
+    "symptom_id_a": 13,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 99,
+    "co_occurrence_pct": 58.6
+  },
+  {
+    "symptom_id_a": 21,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 125,
+    "co_occurrence_pct": 57.1
+  },
+  {
+    "symptom_id_a": 8,
+    "symptom_id_b": 11,
+    "co_occurrence_count": 221,
+    "co_occurrence_pct": 57.0
+  },
+  {
+    "symptom_id_a": 2,
+    "symptom_id_b": 21,
+    "co_occurrence_count": 104,
+    "co_occurrence_pct": 56.5
+  },
+  {
+    "symptom_id_a": 1,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 102,
+    "co_occurrence_pct": 56.4
+  },
+  {
+    "symptom_id_a": 19,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 111,
+    "co_occurrence_pct": 56.1
+  },
+  {
+    "symptom_id_a": 14,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 103,
+    "co_occurrence_pct": 56.0
+  },
+  {
+    "symptom_id_a": 32,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 181,
+    "co_occurrence_pct": 55.9
+  },
+  {
+    "symptom_id_a": 32,
+    "symptom_id_b": 33,
+    "co_occurrence_count": 180,
+    "co_occurrence_pct": 55.6
+  },
+  {
+    "symptom_id_a": 3,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 266,
+    "co_occurrence_pct": 55.3
+  },
+  {
+    "symptom_id_a": 1,
+    "symptom_id_b": 8,
+    "co_occurrence_count": 100,
+    "co_occurrence_pct": 55.2
+  },
+  {
+    "symptom_id_a": 25,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 314,
+    "co_occurrence_pct": 55.2
+  },
+  {
+    "symptom_id_a": 10,
+    "symptom_id_b": 24,
+    "co_occurrence_count": 164,
+    "co_occurrence_pct": 54.8
+  },
+  {
+    "symptom_id_a": 15,
+    "symptom_id_b": 37,
+    "co_occurrence_count": 132,
+    "co_occurrence_pct": 54.3
+  },
+  {
+    "symptom_id_a": 22,
+    "symptom_id_b": 24,
+    "co_occurrence_count": 155,
+    "co_occurrence_pct": 53.6
+  },
+  {
+    "symptom_id_a": 15,
+    "symptom_id_b": 35,
+    "co_occurrence_count": 128,
+    "co_occurrence_pct": 52.7
+  },
+  {
+    "symptom_id_a": 10,
+    "symptom_id_b": 12,
+    "co_occurrence_count": 157,
+    "co_occurrence_pct": 52.5
+  },
+  {
+    "symptom_id_a": 10,
+    "symptom_id_b": 22,
+    "co_occurrence_count": 157,
+    "co_occurrence_pct": 52.5
+  },
+  {
+    "symptom_id_a": 1,
+    "symptom_id_b": 14,
+    "co_occurrence_count": 94,
+    "co_occurrence_pct": 51.9
+  },
+  {
+    "symptom_id_a": 3,
+    "symptom_id_b": 7,
+    "co_occurrence_count": 249,
+    "co_occurrence_pct": 51.8
+  },
+  {
+    "symptom_id_a": 2,
+    "symptom_id_b": 20,
+    "co_occurrence_count": 95,
+    "co_occurrence_pct": 51.6
+  },
+  {
+    "symptom_id_a": 3,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 248,
+    "co_occurrence_pct": 51.6
+  },
+  {
+    "symptom_id_a": 11,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 328,
+    "co_occurrence_pct": 51.6
+  },
+  {
+    "symptom_id_a": 13,
+    "symptom_id_b": 14,
+    "co_occurrence_count": 87,
+    "co_occurrence_pct": 51.5
+  },
+  {
+    "symptom_id_a": 35,
+    "symptom_id_b": 36,
+    "co_occurrence_count": 119,
+    "co_occurrence_pct": 51.3
+  },
+  {
+    "symptom_id_a": 4,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 23,
+    "co_occurrence_pct": 51.1
+  },
+  {
+    "symptom_id_a": 12,
+    "symptom_id_b": 22,
+    "co_occurrence_count": 150,
+    "co_occurrence_pct": 50.7
+  },
+  {
+    "symptom_id_a": 20,
+    "symptom_id_b": 21,
+    "co_occurrence_count": 99,
+    "co_occurrence_pct": 50.5
+  },
+  {
+    "symptom_id_a": 35,
+    "symptom_id_b": 37,
+    "co_occurrence_count": 117,
+    "co_occurrence_pct": 50.4
+  },
+  {
+    "symptom_id_a": 3,
+    "symptom_id_b": 18,
+    "co_occurrence_count": 242,
+    "co_occurrence_pct": 50.3
+  },
+  {
+    "symptom_id_a": 15,
+    "symptom_id_b": 36,
+    "co_occurrence_count": 121,
+    "co_occurrence_pct": 49.8
+  },
+  {
+    "symptom_id_a": 3,
+    "symptom_id_b": 6,
+    "co_occurrence_count": 239,
+    "co_occurrence_pct": 49.7
+  },
+  {
+    "symptom_id_a": 12,
+    "symptom_id_b": 24,
+    "co_occurrence_count": 147,
+    "co_occurrence_pct": 49.7
+  },
+  {
+    "symptom_id_a": 36,
+    "symptom_id_b": 37,
+    "co_occurrence_count": 108,
+    "co_occurrence_pct": 49.3
+  },
+  {
+    "symptom_id_a": 19,
+    "symptom_id_b": 21,
+    "co_occurrence_count": 97,
+    "co_occurrence_pct": 49.0
+  },
+  {
+    "symptom_id_a": 25,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 279,
+    "co_occurrence_pct": 49.0
+  },
+  {
+    "symptom_id_a": 4,
+    "symptom_id_b": 11,
+    "co_occurrence_count": 22,
+    "co_occurrence_pct": 48.9
+  },
+  {
+    "symptom_id_a": 19,
+    "symptom_id_b": 20,
+    "co_occurrence_count": 96,
+    "co_occurrence_pct": 48.5
+  },
+  {
+    "symptom_id_a": 2,
+    "symptom_id_b": 19,
+    "co_occurrence_count": 88,
+    "co_occurrence_pct": 47.8
+  },
+  {
+    "symptom_id_a": 11,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 301,
+    "co_occurrence_pct": 47.3
+  },
+  {
+    "symptom_id_a": 25,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 268,
+    "co_occurrence_pct": 47.1
+  },
+  {
+    "symptom_id_a": 20,
+    "symptom_id_b": 23,
+    "co_occurrence_count": 92,
+    "co_occurrence_pct": 46.9
+  },
+  {
+    "symptom_id_a": 31,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 192,
+    "co_occurrence_pct": 46.8
+  },
+  {
+    "symptom_id_a": 31,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 189,
+    "co_occurrence_pct": 46.1
+  },
+  {
+    "symptom_id_a": 31,
+    "symptom_id_b": 33,
+    "co_occurrence_count": 188,
+    "co_occurrence_pct": 45.9
+  },
+  {
+    "symptom_id_a": 11,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 291,
+    "co_occurrence_pct": 45.8
+  },
+  {
+    "symptom_id_a": 2,
+    "symptom_id_b": 23,
+    "co_occurrence_count": 84,
+    "co_occurrence_pct": 45.7
+  },
+  {
+    "symptom_id_a": 19,
+    "symptom_id_b": 23,
+    "co_occurrence_count": 90,
+    "co_occurrence_pct": 45.5
+  },
+  {
+    "symptom_id_a": 1,
+    "symptom_id_b": 13,
+    "co_occurrence_count": 82,
+    "co_occurrence_pct": 45.3
+  },
+  {
+    "symptom_id_a": 8,
+    "symptom_id_b": 10,
+    "co_occurrence_count": 171,
+    "co_occurrence_pct": 44.1
+  },
+  {
+    "symptom_id_a": 8,
+    "symptom_id_b": 22,
+    "co_occurrence_count": 168,
+    "co_occurrence_pct": 43.3
+  },
+  {
+    "symptom_id_a": 28,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 292,
+    "co_occurrence_pct": 43.3
+  },
+  {
+    "symptom_id_a": 11,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 274,
+    "co_occurrence_pct": 43.1
+  },
+  {
+    "symptom_id_a": 8,
+    "symptom_id_b": 24,
+    "co_occurrence_count": 166,
+    "co_occurrence_pct": 42.8
+  },
+  {
+    "symptom_id_a": 21,
+    "symptom_id_b": 23,
+    "co_occurrence_count": 93,
+    "co_occurrence_pct": 42.5
+  },
+  {
+    "symptom_id_a": 8,
+    "symptom_id_b": 12,
+    "co_occurrence_count": 160,
+    "co_occurrence_pct": 41.2
+  },
+  {
+    "symptom_id_a": 14,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 73,
+    "co_occurrence_pct": 39.7
+  },
+  {
+    "symptom_id_a": 13,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 65,
+    "co_occurrence_pct": 38.5
+  },
+  {
+    "symptom_id_a": 4,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 17,
+    "co_occurrence_pct": 37.8
+  },
+  {
+    "symptom_id_a": 17,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 20,
+    "co_occurrence_pct": 37.0
+  },
+  {
+    "symptom_id_a": 8,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 142,
+    "co_occurrence_pct": 36.6
+  },
+  {
+    "symptom_id_a": 1,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 66,
+    "co_occurrence_pct": 36.5
+  },
+  {
+    "symptom_id_a": 16,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 16,
+    "co_occurrence_pct": 36.4
+  },
+  {
+    "symptom_id_a": 23,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 63,
+    "co_occurrence_pct": 35.4
+  },
+  {
+    "symptom_id_a": 10,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 105,
+    "co_occurrence_pct": 35.1
+  },
+  {
+    "symptom_id_a": 3,
+    "symptom_id_b": 11,
+    "co_occurrence_count": 166,
+    "co_occurrence_pct": 34.5
+  },
+  {
+    "symptom_id_a": 7,
+    "symptom_id_b": 11,
+    "co_occurrence_count": 136,
+    "co_occurrence_pct": 34.5
+  },
+  {
+    "symptom_id_a": 6,
+    "symptom_id_b": 11,
+    "co_occurrence_count": 127,
+    "co_occurrence_pct": 34.0
+  },
+  {
+    "symptom_id_a": 8,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 132,
+    "co_occurrence_pct": 34.0
+  },
+  {
+    "symptom_id_a": 13,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 57,
+    "co_occurrence_pct": 33.7
+  },
+  {
+    "symptom_id_a": 14,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 62,
+    "co_occurrence_pct": 33.7
+  },
+  {
+    "symptom_id_a": 24,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 94,
+    "co_occurrence_pct": 33.7
+  },
+  {
+    "symptom_id_a": 4,
+    "symptom_id_b": 18,
+    "co_occurrence_count": 15,
+    "co_occurrence_pct": 33.3
+  },
+  {
+    "symptom_id_a": 4,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 15,
+    "co_occurrence_pct": 33.3
+  },
+  {
+    "symptom_id_a": 5,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 21,
+    "co_occurrence_pct": 33.3
+  },
+  {
+    "symptom_id_a": 1,
+    "symptom_id_b": 11,
+    "co_occurrence_count": 60,
+    "co_occurrence_pct": 33.1
+  },
+  {
+    "symptom_id_a": 3,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 157,
+    "co_occurrence_pct": 32.6
+  },
+  {
+    "symptom_id_a": 15,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 79,
+    "co_occurrence_pct": 32.5
+  },
+  {
+    "symptom_id_a": 24,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 89,
+    "co_occurrence_pct": 31.9
+  },
+  {
+    "symptom_id_a": 22,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 92,
+    "co_occurrence_pct": 31.8
+  },
+  {
+    "symptom_id_a": 5,
+    "symptom_id_b": 11,
+    "co_occurrence_count": 20,
+    "co_occurrence_pct": 31.7
+  },
+  {
+    "symptom_id_a": 4,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 14,
+    "co_occurrence_pct": 31.1
+  },
+  {
+    "symptom_id_a": 11,
+    "symptom_id_b": 12,
+    "co_occurrence_count": 198,
+    "co_occurrence_pct": 31.1
+  },
+  {
+    "symptom_id_a": 7,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 121,
+    "co_occurrence_pct": 30.7
+  },
+  {
+    "symptom_id_a": 2,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 56,
+    "co_occurrence_pct": 30.4
+  },
+  {
+    "symptom_id_a": 11,
+    "symptom_id_b": 22,
+    "co_occurrence_count": 193,
+    "co_occurrence_pct": 30.3
+  },
+  {
+    "symptom_id_a": 3,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 145,
+    "co_occurrence_pct": 30.1
+  },
+  {
+    "symptom_id_a": 20,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 59,
+    "co_occurrence_pct": 30.1
+  },
+  {
+    "symptom_id_a": 6,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 112,
+    "co_occurrence_pct": 29.9
+  },
+  {
+    "symptom_id_a": 19,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 59,
+    "co_occurrence_pct": 29.8
+  },
+  {
+    "symptom_id_a": 8,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 115,
+    "co_occurrence_pct": 29.6
+  },
+  {
+    "symptom_id_a": 11,
+    "symptom_id_b": 24,
+    "co_occurrence_count": 187,
+    "co_occurrence_pct": 29.4
+  },
+  {
+    "symptom_id_a": 3,
+    "symptom_id_b": 8,
+    "co_occurrence_count": 141,
+    "co_occurrence_pct": 29.3
+  },
+  {
+    "symptom_id_a": 12,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 86,
+    "co_occurrence_pct": 29.1
+  },
+  {
+    "symptom_id_a": 4,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 13,
+    "co_occurrence_pct": 28.9
+  },
+  {
+    "symptom_id_a": 12,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 85,
+    "co_occurrence_pct": 28.7
+  },
+  {
+    "symptom_id_a": 22,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 82,
+    "co_occurrence_pct": 28.4
+  },
+  {
+    "symptom_id_a": 1,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 51,
+    "co_occurrence_pct": 28.2
+  },
+  {
+    "symptom_id_a": 21,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 61,
+    "co_occurrence_pct": 27.9
+  },
+  {
+    "symptom_id_a": 17,
+    "symptom_id_b": 18,
+    "co_occurrence_count": 15,
+    "co_occurrence_pct": 27.8
+  },
+  {
+    "symptom_id_a": 17,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 15,
+    "co_occurrence_pct": 27.8
+  },
+  {
+    "symptom_id_a": 17,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 15,
+    "co_occurrence_pct": 27.8
+  },
+  {
+    "symptom_id_a": 2,
+    "symptom_id_b": 3,
+    "co_occurrence_count": 51,
+    "co_occurrence_pct": 27.7
+  },
+  {
+    "symptom_id_a": 18,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 105,
+    "co_occurrence_pct": 27.6
+  },
+  {
+    "symptom_id_a": 16,
+    "symptom_id_b": 28,
+    "co_occurrence_count": 12,
+    "co_occurrence_pct": 27.3
+  },
+  {
+    "symptom_id_a": 15,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 66,
+    "co_occurrence_pct": 27.2
+  },
+  {
+    "symptom_id_a": 10,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 81,
+    "co_occurrence_pct": 27.1
+  },
+  {
+    "symptom_id_a": 5,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 17,
+    "co_occurrence_pct": 27.0
+  },
+  {
+    "symptom_id_a": 4,
+    "symptom_id_b": 24,
+    "co_occurrence_count": 12,
+    "co_occurrence_pct": 26.7
+  },
+  {
+    "symptom_id_a": 6,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 98,
+    "co_occurrence_pct": 26.2
+  },
+  {
+    "symptom_id_a": 13,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 44,
+    "co_occurrence_pct": 26.0
+  },
+  {
+    "symptom_id_a": 22,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 75,
+    "co_occurrence_pct": 26.0
+  },
+  {
+    "symptom_id_a": 17,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 14,
+    "co_occurrence_pct": 25.9
+  },
+  {
+    "symptom_id_a": 5,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 16,
+    "co_occurrence_pct": 25.4
+  },
+  {
+    "symptom_id_a": 5,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 16,
+    "co_occurrence_pct": 25.4
+  },
+  {
+    "symptom_id_a": 13,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 43,
+    "co_occurrence_pct": 25.4
+  },
+  {
+    "symptom_id_a": 8,
+    "symptom_id_b": 14,
+    "co_occurrence_count": 98,
+    "co_occurrence_pct": 25.3
+  },
+  {
+    "symptom_id_a": 8,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 98,
+    "co_occurrence_pct": 25.3
+  },
+  {
+    "symptom_id_a": 8,
+    "symptom_id_b": 9,
+    "co_occurrence_count": 97,
+    "co_occurrence_pct": 25.0
+  },
+  {
+    "symptom_id_a": 16,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 11,
+    "co_occurrence_pct": 25.0
+  },
+  {
+    "symptom_id_a": 18,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 95,
+    "co_occurrence_pct": 25.0
+  },
+  {
+    "symptom_id_a": 1,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 45,
+    "co_occurrence_pct": 24.9
+  },
+  {
+    "symptom_id_a": 3,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 120,
+    "co_occurrence_pct": 24.9
+  },
+  {
+    "symptom_id_a": 8,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 96,
+    "co_occurrence_pct": 24.7
+  },
+  {
+    "symptom_id_a": 4,
+    "symptom_id_b": 8,
+    "co_occurrence_count": 11,
+    "co_occurrence_pct": 24.4
+  },
+  {
+    "symptom_id_a": 4,
+    "symptom_id_b": 9,
+    "co_occurrence_count": 11,
+    "co_occurrence_pct": 24.4
+  },
+  {
+    "symptom_id_a": 6,
+    "symptom_id_b": 9,
+    "co_occurrence_count": 90,
+    "co_occurrence_pct": 24.1
+  },
+  {
+    "symptom_id_a": 7,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 95,
+    "co_occurrence_pct": 24.1
+  },
+  {
+    "symptom_id_a": 5,
+    "symptom_id_b": 25,
+    "co_occurrence_count": 15,
+    "co_occurrence_pct": 23.8
+  },
+  {
+    "symptom_id_a": 7,
+    "symptom_id_b": 9,
+    "co_occurrence_count": 93,
+    "co_occurrence_pct": 23.6
+  },
+  {
+    "symptom_id_a": 7,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 93,
+    "co_occurrence_pct": 23.6
+  },
+  {
+    "symptom_id_a": 6,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 88,
+    "co_occurrence_pct": 23.5
+  },
+  {
+    "symptom_id_a": 2,
+    "symptom_id_b": 11,
+    "co_occurrence_count": 43,
+    "co_occurrence_pct": 23.4
+  },
+  {
+    "symptom_id_a": 3,
+    "symptom_id_b": 9,
+    "co_occurrence_count": 110,
+    "co_occurrence_pct": 22.9
+  },
+  {
+    "symptom_id_a": 24,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 64,
+    "co_occurrence_pct": 22.9
+  },
+  {
+    "symptom_id_a": 29,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 11,
+    "co_occurrence_pct": 22.9
+  },
+  {
+    "symptom_id_a": 22,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 65,
+    "co_occurrence_pct": 22.5
+  },
+  {
+    "symptom_id_a": 8,
+    "symptom_id_b": 13,
+    "co_occurrence_count": 87,
+    "co_occurrence_pct": 22.4
+  },
+  {
+    "symptom_id_a": 14,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 41,
+    "co_occurrence_pct": 22.3
+  },
+  {
+    "symptom_id_a": 14,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 41,
+    "co_occurrence_pct": 22.3
+  },
+  {
+    "symptom_id_a": 14,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 41,
+    "co_occurrence_pct": 22.3
+  },
+  {
+    "symptom_id_a": 4,
+    "symptom_id_b": 10,
+    "co_occurrence_count": 10,
+    "co_occurrence_pct": 22.2
+  },
+  {
+    "symptom_id_a": 4,
+    "symptom_id_b": 22,
+    "co_occurrence_count": 10,
+    "co_occurrence_pct": 22.2
+  },
+  {
+    "symptom_id_a": 17,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 12,
+    "co_occurrence_pct": 22.2
+  },
+  {
+    "symptom_id_a": 1,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 40,
+    "co_occurrence_pct": 22.1
+  },
+  {
+    "symptom_id_a": 18,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 84,
+    "co_occurrence_pct": 22.1
+  },
+  {
+    "symptom_id_a": 13,
+    "symptom_id_b": 33,
+    "co_occurrence_count": 37,
+    "co_occurrence_pct": 21.9
+  },
+  {
+    "symptom_id_a": 23,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 39,
+    "co_occurrence_pct": 21.9
+  },
+  {
+    "symptom_id_a": 24,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 61,
+    "co_occurrence_pct": 21.9
+  },
+  {
+    "symptom_id_a": 2,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 40,
+    "co_occurrence_pct": 21.7
+  },
+  {
+    "symptom_id_a": 3,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 104,
+    "co_occurrence_pct": 21.6
+  },
+  {
+    "symptom_id_a": 27,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 86,
+    "co_occurrence_pct": 21.5
+  },
+  {
+    "symptom_id_a": 11,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 136,
+    "co_occurrence_pct": 21.4
+  },
+  {
+    "symptom_id_a": 15,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 52,
+    "co_occurrence_pct": 21.4
+  },
+  {
+    "symptom_id_a": 20,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 42,
+    "co_occurrence_pct": 21.4
+  },
+  {
+    "symptom_id_a": 13,
+    "symptom_id_b": 18,
+    "co_occurrence_count": 36,
+    "co_occurrence_pct": 21.3
+  },
+  {
+    "symptom_id_a": 13,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 36,
+    "co_occurrence_pct": 21.3
+  },
+  {
+    "symptom_id_a": 23,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 38,
+    "co_occurrence_pct": 21.3
+  },
+  {
+    "symptom_id_a": 25,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 121,
+    "co_occurrence_pct": 21.3
+  },
+  {
+    "symptom_id_a": 14,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 39,
+    "co_occurrence_pct": 21.2
+  },
+  {
+    "symptom_id_a": 22,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 61,
+    "co_occurrence_pct": 21.1
+  },
+  {
+    "symptom_id_a": 1,
+    "symptom_id_b": 9,
+    "co_occurrence_count": 38,
+    "co_occurrence_pct": 21.0
+  },
+  {
+    "symptom_id_a": 1,
+    "symptom_id_b": 33,
+    "co_occurrence_count": 38,
+    "co_occurrence_pct": 21.0
+  },
+  {
+    "symptom_id_a": 1,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 38,
+    "co_occurrence_pct": 21.0
+  },
+  {
+    "symptom_id_a": 11,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 133,
+    "co_occurrence_pct": 20.9
+  },
+  {
+    "symptom_id_a": 3,
+    "symptom_id_b": 14,
+    "co_occurrence_count": 100,
+    "co_occurrence_pct": 20.8
+  },
+  {
+    "symptom_id_a": 2,
+    "symptom_id_b": 6,
+    "co_occurrence_count": 38,
+    "co_occurrence_pct": 20.7
+  },
+  {
+    "symptom_id_a": 2,
+    "symptom_id_b": 9,
+    "co_occurrence_count": 38,
+    "co_occurrence_pct": 20.7
+  },
+  {
+    "symptom_id_a": 13,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 35,
+    "co_occurrence_pct": 20.7
+  },
+  {
+    "symptom_id_a": 14,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 38,
+    "co_occurrence_pct": 20.7
+  },
+  {
+    "symptom_id_a": 5,
+    "symptom_id_b": 9,
+    "co_occurrence_count": 13,
+    "co_occurrence_pct": 20.6
+  },
+  {
+    "symptom_id_a": 26,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 92,
+    "co_occurrence_pct": 20.6
+  },
+  {
+    "symptom_id_a": 9,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 91,
+    "co_occurrence_pct": 20.4
+  },
+  {
+    "symptom_id_a": 12,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 60,
+    "co_occurrence_pct": 20.3
+  },
+  {
+    "symptom_id_a": 25,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 115,
+    "co_occurrence_pct": 20.2
+  },
+  {
+    "symptom_id_a": 2,
+    "symptom_id_b": 18,
+    "co_occurrence_count": 37,
+    "co_occurrence_pct": 20.1
+  },
+  {
+    "symptom_id_a": 7,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 79,
+    "co_occurrence_pct": 20.1
+  },
+  {
+    "symptom_id_a": 10,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 60,
+    "co_occurrence_pct": 20.1
+  },
+  {
+    "symptom_id_a": 11,
+    "symptom_id_b": 18,
+    "co_occurrence_count": 128,
+    "co_occurrence_pct": 20.1
+  },
+  {
+    "symptom_id_a": 13,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 34,
+    "co_occurrence_pct": 20.1
+  },
+  {
+    "symptom_id_a": 14,
+    "symptom_id_b": 33,
+    "co_occurrence_count": 37,
+    "co_occurrence_pct": 20.1
+  },
+  {
+    "symptom_id_a": 21,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 44,
+    "co_occurrence_pct": 20.1
+  },
+  {
+    "symptom_id_a": 3,
+    "symptom_id_b": 13,
+    "co_occurrence_count": 96,
+    "co_occurrence_pct": 20.0
+  },
+  {
+    "symptom_id_a": 1,
+    "symptom_id_b": 7,
+    "co_occurrence_count": 36,
+    "co_occurrence_pct": 19.9
+  },
+  {
+    "symptom_id_a": 9,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 88,
+    "co_occurrence_pct": 19.7
+  },
+  {
+    "symptom_id_a": 10,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 59,
+    "co_occurrence_pct": 19.7
+  },
+  {
+    "symptom_id_a": 10,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 59,
+    "co_occurrence_pct": 19.7
+  },
+  {
+    "symptom_id_a": 18,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 75,
+    "co_occurrence_pct": 19.7
+  },
+  {
+    "symptom_id_a": 19,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 39,
+    "co_occurrence_pct": 19.7
+  },
+  {
+    "symptom_id_a": 2,
+    "symptom_id_b": 7,
+    "co_occurrence_count": 36,
+    "co_occurrence_pct": 19.6
+  },
+  {
+    "symptom_id_a": 14,
+    "symptom_id_b": 18,
+    "co_occurrence_count": 36,
+    "co_occurrence_pct": 19.6
+  },
+  {
+    "symptom_id_a": 30,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 88,
+    "co_occurrence_pct": 19.6
+  },
+  {
+    "symptom_id_a": 1,
+    "symptom_id_b": 6,
+    "co_occurrence_count": 35,
+    "co_occurrence_pct": 19.3
+  },
+  {
+    "symptom_id_a": 7,
+    "symptom_id_b": 8,
+    "co_occurrence_count": 76,
+    "co_occurrence_pct": 19.3
+  },
+  {
+    "symptom_id_a": 12,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 57,
+    "co_occurrence_pct": 19.3
+  },
+  {
+    "symptom_id_a": 10,
+    "symptom_id_b": 18,
+    "co_occurrence_count": 57,
+    "co_occurrence_pct": 19.1
+  },
+  {
+    "symptom_id_a": 5,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 12,
+    "co_occurrence_pct": 19.0
+  },
+  {
+    "symptom_id_a": 5,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 12,
+    "co_occurrence_pct": 19.0
+  },
+  {
+    "symptom_id_a": 12,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 56,
+    "co_occurrence_pct": 18.9
+  },
+  {
+    "symptom_id_a": 20,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 37,
+    "co_occurrence_pct": 18.9
+  },
+  {
+    "symptom_id_a": 28,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 127,
+    "co_occurrence_pct": 18.8
+  },
+  {
+    "symptom_id_a": 10,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 56,
+    "co_occurrence_pct": 18.7
+  },
+  {
+    "symptom_id_a": 24,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 52,
+    "co_occurrence_pct": 18.6
+  },
+  {
+    "symptom_id_a": 15,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 45,
+    "co_occurrence_pct": 18.5
+  },
+  {
+    "symptom_id_a": 23,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 33,
+    "co_occurrence_pct": 18.5
+  },
+  {
+    "symptom_id_a": 18,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 70,
+    "co_occurrence_pct": 18.4
+  },
+  {
+    "symptom_id_a": 3,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 88,
+    "co_occurrence_pct": 18.3
+  },
+  {
+    "symptom_id_a": 8,
+    "symptom_id_b": 18,
+    "co_occurrence_count": 71,
+    "co_occurrence_pct": 18.3
+  },
+  {
+    "symptom_id_a": 21,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 40,
+    "co_occurrence_pct": 18.3
+  },
+  {
+    "symptom_id_a": 1,
+    "symptom_id_b": 18,
+    "co_occurrence_count": 33,
+    "co_occurrence_pct": 18.2
+  },
+  {
+    "symptom_id_a": 15,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 44,
+    "co_occurrence_pct": 18.1
+  },
+  {
+    "symptom_id_a": 7,
+    "symptom_id_b": 33,
+    "co_occurrence_count": 71,
+    "co_occurrence_pct": 18.0
+  },
+  {
+    "symptom_id_a": 2,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 33,
+    "co_occurrence_pct": 17.9
+  },
+  {
+    "symptom_id_a": 6,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 67,
+    "co_occurrence_pct": 17.9
+  },
+  {
+    "symptom_id_a": 12,
+    "symptom_id_b": 18,
+    "co_occurrence_count": 53,
+    "co_occurrence_pct": 17.9
+  },
+  {
+    "symptom_id_a": 20,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 35,
+    "co_occurrence_pct": 17.9
+  },
+  {
+    "symptom_id_a": 26,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 80,
+    "co_occurrence_pct": 17.9
+  },
+  {
+    "symptom_id_a": 8,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 69,
+    "co_occurrence_pct": 17.8
+  },
+  {
+    "symptom_id_a": 21,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 39,
+    "co_occurrence_pct": 17.8
+  },
+  {
+    "symptom_id_a": 1,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 32,
+    "co_occurrence_pct": 17.7
+  },
+  {
+    "symptom_id_a": 9,
+    "symptom_id_b": 18,
+    "co_occurrence_count": 79,
+    "co_occurrence_pct": 17.7
+  },
+  {
+    "symptom_id_a": 15,
+    "symptom_id_b": 18,
+    "co_occurrence_count": 43,
+    "co_occurrence_pct": 17.7
+  },
+  {
+    "symptom_id_a": 15,
+    "symptom_id_b": 33,
+    "co_occurrence_count": 43,
+    "co_occurrence_pct": 17.7
+  },
+  {
+    "symptom_id_a": 19,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 35,
+    "co_occurrence_pct": 17.7
+  },
+  {
+    "symptom_id_a": 12,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 52,
+    "co_occurrence_pct": 17.6
+  },
+  {
+    "symptom_id_a": 18,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 67,
+    "co_occurrence_pct": 17.6
+  },
+  {
+    "symptom_id_a": 18,
+    "symptom_id_b": 33,
+    "co_occurrence_count": 67,
+    "co_occurrence_pct": 17.6
+  },
+  {
+    "symptom_id_a": 22,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 51,
+    "co_occurrence_pct": 17.6
+  },
+  {
+    "symptom_id_a": 22,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 51,
+    "co_occurrence_pct": 17.6
+  },
+  {
+    "symptom_id_a": 3,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 84,
+    "co_occurrence_pct": 17.5
+  },
+  {
+    "symptom_id_a": 5,
+    "symptom_id_b": 33,
+    "co_occurrence_count": 11,
+    "co_occurrence_pct": 17.5
+  },
+  {
+    "symptom_id_a": 7,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 69,
+    "co_occurrence_pct": 17.5
+  },
+  {
+    "symptom_id_a": 27,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 70,
+    "co_occurrence_pct": 17.5
+  },
+  {
+    "symptom_id_a": 2,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 32,
+    "co_occurrence_pct": 17.4
+  },
+  {
+    "symptom_id_a": 2,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 32,
+    "co_occurrence_pct": 17.4
+  },
+  {
+    "symptom_id_a": 3,
+    "symptom_id_b": 33,
+    "co_occurrence_count": 83,
+    "co_occurrence_pct": 17.3
+  },
+  {
+    "symptom_id_a": 8,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 67,
+    "co_occurrence_pct": 17.3
+  },
+  {
+    "symptom_id_a": 15,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 42,
+    "co_occurrence_pct": 17.3
+  },
+  {
+    "symptom_id_a": 24,
+    "symptom_id_b": 31,
+    "co_occurrence_count": 48,
+    "co_occurrence_pct": 17.2
+  },
+  {
+    "symptom_id_a": 22,
+    "symptom_id_b": 33,
+    "co_occurrence_count": 49,
+    "co_occurrence_pct": 17.0
+  },
+  {
+    "symptom_id_a": 27,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 68,
+    "co_occurrence_pct": 17.0
+  },
+  {
+    "symptom_id_a": 27,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 68,
+    "co_occurrence_pct": 17.0
+  },
+  {
+    "symptom_id_a": 21,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 37,
+    "co_occurrence_pct": 16.9
+  },
+  {
+    "symptom_id_a": 23,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 30,
+    "co_occurrence_pct": 16.9
+  },
+  {
+    "symptom_id_a": 6,
+    "symptom_id_b": 8,
+    "co_occurrence_count": 63,
+    "co_occurrence_pct": 16.8
+  },
+  {
+    "symptom_id_a": 6,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 63,
+    "co_occurrence_pct": 16.8
+  },
+  {
+    "symptom_id_a": 8,
+    "symptom_id_b": 33,
+    "co_occurrence_count": 65,
+    "co_occurrence_pct": 16.8
+  },
+  {
+    "symptom_id_a": 14,
+    "symptom_id_b": 15,
+    "co_occurrence_count": 31,
+    "co_occurrence_pct": 16.8
+  },
+  {
+    "symptom_id_a": 20,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 33,
+    "co_occurrence_pct": 16.8
+  },
+  {
+    "symptom_id_a": 26,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 75,
+    "co_occurrence_pct": 16.8
+  },
+  {
+    "symptom_id_a": 1,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 30,
+    "co_occurrence_pct": 16.6
+  },
+  {
+    "symptom_id_a": 6,
+    "symptom_id_b": 33,
+    "co_occurrence_count": 62,
+    "co_occurrence_pct": 16.6
+  },
+  {
+    "symptom_id_a": 7,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 65,
+    "co_occurrence_pct": 16.5
+  },
+  {
+    "symptom_id_a": 9,
+    "symptom_id_b": 33,
+    "co_occurrence_count": 73,
+    "co_occurrence_pct": 16.4
+  },
+  {
+    "symptom_id_a": 9,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 73,
+    "co_occurrence_pct": 16.4
+  },
+  {
+    "symptom_id_a": 21,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 36,
+    "co_occurrence_pct": 16.4
+  },
+  {
+    "symptom_id_a": 2,
+    "symptom_id_b": 8,
+    "co_occurrence_count": 30,
+    "co_occurrence_pct": 16.3
+  },
+  {
+    "symptom_id_a": 14,
+    "symptom_id_b": 35,
+    "co_occurrence_count": 30,
+    "co_occurrence_pct": 16.3
+  },
+  {
+    "symptom_id_a": 20,
+    "symptom_id_b": 27,
+    "co_occurrence_count": 32,
+    "co_occurrence_pct": 16.3
+  },
+  {
+    "symptom_id_a": 20,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 32,
+    "co_occurrence_pct": 16.3
+  },
+  {
+    "symptom_id_a": 23,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 29,
+    "co_occurrence_pct": 16.3
+  },
+  {
+    "symptom_id_a": 12,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 48,
+    "co_occurrence_pct": 16.2
+  },
+  {
+    "symptom_id_a": 19,
+    "symptom_id_b": 30,
+    "co_occurrence_count": 32,
+    "co_occurrence_pct": 16.2
+  },
+  {
+    "symptom_id_a": 30,
+    "symptom_id_b": 33,
+    "co_occurrence_count": 72,
+    "co_occurrence_pct": 16.1
+  },
+  {
+    "symptom_id_a": 30,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 72,
+    "co_occurrence_pct": 16.1
+  },
+  {
+    "symptom_id_a": 6,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 60,
+    "co_occurrence_pct": 16.0
+  },
+  {
+    "symptom_id_a": 8,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 62,
+    "co_occurrence_pct": 16.0
+  },
+  {
+    "symptom_id_a": 11,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 102,
+    "co_occurrence_pct": 16.0
+  },
+  {
+    "symptom_id_a": 28,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 108,
+    "co_occurrence_pct": 16.0
+  },
+  {
+    "symptom_id_a": 5,
+    "symptom_id_b": 6,
+    "co_occurrence_count": 10,
+    "co_occurrence_pct": 15.9
+  },
+  {
+    "symptom_id_a": 5,
+    "symptom_id_b": 8,
+    "co_occurrence_count": 10,
+    "co_occurrence_pct": 15.9
+  },
+  {
+    "symptom_id_a": 5,
+    "symptom_id_b": 18,
+    "co_occurrence_count": 10,
+    "co_occurrence_pct": 15.9
+  },
+  {
+    "symptom_id_a": 5,
+    "symptom_id_b": 21,
+    "co_occurrence_count": 10,
+    "co_occurrence_pct": 15.9
+  },
+  {
+    "symptom_id_a": 5,
+    "symptom_id_b": 23,
+    "co_occurrence_count": 10,
+    "co_occurrence_pct": 15.9
+  },
+  {
+    "symptom_id_a": 27,
+    "symptom_id_b": 33,
+    "co_occurrence_count": 63,
+    "co_occurrence_pct": 15.8
+  },
+  {
+    "symptom_id_a": 19,
+    "symptom_id_b": 26,
+    "co_occurrence_count": 31,
+    "co_occurrence_pct": 15.7
+  },
+  {
+    "symptom_id_a": 28,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 106,
+    "co_occurrence_pct": 15.7
+  },
+  {
+    "symptom_id_a": 15,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 38,
+    "co_occurrence_pct": 15.6
+  },
+  {
+    "symptom_id_a": 25,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 89,
+    "co_occurrence_pct": 15.6
+  },
+  {
+    "symptom_id_a": 7,
+    "symptom_id_b": 10,
+    "co_occurrence_count": 61,
+    "co_occurrence_pct": 15.5
+  },
+  {
+    "symptom_id_a": 21,
+    "symptom_id_b": 22,
+    "co_occurrence_count": 34,
+    "co_occurrence_pct": 15.5
+  },
+  {
+    "symptom_id_a": 25,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 87,
+    "co_occurrence_pct": 15.3
+  },
+  {
+    "symptom_id_a": 2,
+    "symptom_id_b": 12,
+    "co_occurrence_count": 28,
+    "co_occurrence_pct": 15.2
+  },
+  {
+    "symptom_id_a": 2,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 28,
+    "co_occurrence_pct": 15.2
+  },
+  {
+    "symptom_id_a": 12,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 45,
+    "co_occurrence_pct": 15.2
+  },
+  {
+    "symptom_id_a": 15,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 37,
+    "co_occurrence_pct": 15.2
+  },
+  {
+    "symptom_id_a": 19,
+    "symptom_id_b": 35,
+    "co_occurrence_count": 30,
+    "co_occurrence_pct": 15.2
+  },
+  {
+    "symptom_id_a": 26,
+    "symptom_id_b": 34,
+    "co_occurrence_count": 68,
+    "co_occurrence_pct": 15.2
+  },
+  {
+    "symptom_id_a": 11,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 96,
+    "co_occurrence_pct": 15.1
+  },
+  {
+    "symptom_id_a": 11,
+    "symptom_id_b": 33,
+    "co_occurrence_count": 96,
+    "co_occurrence_pct": 15.1
+  },
+  {
+    "symptom_id_a": 24,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 42,
+    "co_occurrence_pct": 15.1
+  },
+  {
+    "symptom_id_a": 9,
+    "symptom_id_b": 32,
+    "co_occurrence_count": 67,
+    "co_occurrence_pct": 15.0
+  },
+  {
+    "symptom_id_a": 26,
+    "symptom_id_b": 33,
+    "co_occurrence_count": 67,
+    "co_occurrence_pct": 15.0
+  }
+]

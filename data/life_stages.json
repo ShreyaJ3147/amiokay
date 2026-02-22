@@ -1,0 +1,38 @@
+[
+  {
+    "stage_id": 1,
+    "stage_name": "Teens (13-17)",
+    "age_range_start": 13,
+    "age_range_end": 17
+  },
+  {
+    "stage_id": 2,
+    "stage_name": "Young Adult (18-24)",
+    "age_range_start": 18,
+    "age_range_end": 24
+  },
+  {
+    "stage_id": 3,
+    "stage_name": "Adult (25-34)",
+    "age_range_start": 25,
+    "age_range_end": 34
+  },
+  {
+    "stage_id": 4,
+    "stage_name": "Adult (35-44)",
+    "age_range_start": 35,
+    "age_range_end": 44
+  },
+  {
+    "stage_id": 5,
+    "stage_name": "Perimenopause (45-54)",
+    "age_range_start": 45,
+    "age_range_end": 54
+  },
+  {
+    "stage_id": 6,
+    "stage_name": "Menopause & Beyond (55+)",
+    "age_range_start": 55,
+    "age_range_end": 99
+  }
+]
